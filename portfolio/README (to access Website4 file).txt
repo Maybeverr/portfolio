@@ -1,0 +1,1 @@
+The website is built on an outdated software because i made it on a school pc for a project, if you want to open it you need RocketCake
